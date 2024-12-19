@@ -27,3 +27,7 @@ input, select {
   border: 1px solid #6a0dad;
   border-radius: 5px;
 }
+h1{
+  font-size:2.5rem;
+  margin-top:30%;
+}
