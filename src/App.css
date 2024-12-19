@@ -1,0 +1,29 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  background-color: #f3f0ff;
+  color: #4b0082;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  background-color: #6a0dad;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #5a0c9e;
+}
+
+input, select {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #6a0dad;
+  border-radius: 5px;
+}
